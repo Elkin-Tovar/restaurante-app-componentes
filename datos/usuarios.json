@@ -1,0 +1,22 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Elkin Tovar",
+        "correo": "elkin@restaurante.com"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "María Gómez",
+        "correo": "maria@restaurante.com"
+    },
+    {
+        "identificacion": "U003",
+        "nombre": "Carlos Pérez",
+        "correo": "carlos@restaurante.com"
+    },
+    {
+        "identificacion": "U004",
+        "nombre": "Ana Rodríguez",
+        "correo": "ana@restaurante.com"
+    }
+]
